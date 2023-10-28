@@ -26,5 +26,5 @@ hs_err_pid*
 *.mvn
 *.iml
 *.cmd
-*.md
+
 mvnw
